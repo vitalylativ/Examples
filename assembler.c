@@ -5,6 +5,7 @@
 
 int programPosition;
 
+
 //string basics
 int strindex(char * str, char * find) 	//find a substring
 {
